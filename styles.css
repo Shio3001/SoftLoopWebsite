@@ -1,0 +1,50 @@
+header {
+  background-color: cadetblue;
+  width: 100vw;
+  min-height: 90px;
+}
+
+.project_name {
+  color: white;
+  font-size: 34px;
+  margin: 0;
+  padding-left: 12px;
+
+  font-family: "Noto Sans JP", sans-serif;
+  font-weight: 600;
+}
+
+.project_sub_name {
+  color: white;
+  font-size: 24px;
+  margin: 0;
+  padding-left: 12px;
+
+  font-family: "Noto Sans JP", sans-serif;
+  font-weight: 400;
+}
+
+.main_area {
+  width: 100vw;
+  padding-left: 20px;
+}
+
+.context_area {
+  width: 100%;
+}
+
+.main_area h3 {
+  font-size: 36px;
+  font-family: "Noto Sans JP", sans-serif;
+  font-weight: 500;
+  margin-bottom: 4px;
+}
+
+.main_area p {
+  font-size: 24px;
+  font-family: "Noto Sans JP", sans-serif;
+  font-weight: 300;
+  margin-top: 0px;
+  margin-bottom: 2px;
+  margin-left: 10px;
+}
