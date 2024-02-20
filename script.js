@@ -1,4 +1,12 @@
 const changePop = () => {
+  var ua = window.navigator.userAgent.toLowerCase();
+
+  if (ua.indexOf("windows nt") !== -1) {
+    runPop();
+  }
+};
+
+const runPop = () => {
   const texth1 = document.querySelectorAll("h1");
   const texth2 = document.querySelectorAll("h2");
   const texth3 = document.querySelectorAll("h3");
