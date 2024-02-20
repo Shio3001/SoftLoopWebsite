@@ -29,6 +29,6 @@ const runPop = () => {
     block.style.backgroundColor = "#00ff00";
   });
 
-  happy.style.cursor = "wait";
+  happy.style.cursor = "help";
   happy.style.width = "100vw";
 };

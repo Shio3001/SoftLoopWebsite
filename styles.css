@@ -58,5 +58,5 @@ body {
 
 .happy {
   max-width: 90vw;
-  cursor: help;
+  cursor: grab;
 }
